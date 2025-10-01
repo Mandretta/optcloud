@@ -1,4 +1,4 @@
-# optcloud
+# Opt-Cloud
 Repositorio para el módulo de Cloud.
 
 *llukitruki*

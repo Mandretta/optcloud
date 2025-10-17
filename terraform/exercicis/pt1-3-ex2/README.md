@@ -87,7 +87,7 @@ resource "aws_instance" "instancias_subnetC" {
 ```
 Apply de terraform:
 ![alt text](<../pt1-3-ex1/assets/images/Captura de pantalla 2025-10-17 214912.png>)
-### Hecho desde la GUI
+### Fet desde la GUI
 ![alt text](../pt1-3-ex1/assets/images/AWS.png) 
 ### Topologia a Lucid:
 ![alt text](<assets/images/Marco horizontal AWS (2019).png>)

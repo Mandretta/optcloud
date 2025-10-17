@@ -1,7 +1,7 @@
 # Exercici 2
 Creació d'instàncies a dins d'una VPC (Virtual Private Cloud) segmentades per Subnets.
 
-Indiquem proveeïdor
+Indiquem proveïdor
 ```
 provider "aws" {
   region = "us-east-1"

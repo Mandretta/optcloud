@@ -49,7 +49,7 @@ resource "aws_subnet" "subnetC" {
   }
 }
 ```
-Creem recursos de tipus instància en cada subnet (subnet_id)
+Creem recursos de tipus instància a cada subnet (subnet_id)
 ```
 # Subnet A
 resource "aws_instance" "instancias_subnetA" {

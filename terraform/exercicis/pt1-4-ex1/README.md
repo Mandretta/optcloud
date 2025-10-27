@@ -125,3 +125,4 @@ resource "aws_instance" "ec2_b" {
   }
 }
 ```
+### El fakin SSH no me tira loco necesito ayuda :( No pude hacer las comprobaciones

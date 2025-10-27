@@ -20,4 +20,4 @@ resource "aws_instance" "instancias-ex1" {
 ```
 Després apliquem amb `$terraform plan` i `$terraform apply`
 ## Topología a Lucid:
-![alt text](<assets/images/Marco vertical AWS (2019) (1).png>)
+![Foto Lucid](<assets/images/Marco vertical AWS (2019) (1).png>)
